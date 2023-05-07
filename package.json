@@ -2,12 +2,12 @@
   "name": "wassup",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "client.js",
   "engines": {
     "node": "14.x"
   },
   "scripts": {
-    "dev": "node server.js",
+    "start": "node server.js",
     "serve": "node server"
   },
   "keywords": [],
