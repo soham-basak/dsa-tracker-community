@@ -1,5 +1,5 @@
 {
-  "name": "wassup",
+  "name": "dsa-tracker-community",
   "version": "1.0.0",
   "description": "",
   "main": "client.js",
@@ -7,7 +7,7 @@
     "node": "14.x"
   },
   "scripts": {
-    "start": "node server.js",
+    "dev": "node server.js",
     "serve": "node server"
   },
   "keywords": [],
